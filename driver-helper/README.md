@@ -2,7 +2,7 @@
 
 This tool creates a panel in the 3D workspace that helps speed up your rigging and animating workflow by allowing you to pin a bone's custom properties and access them at any time.
 
-![driver-helper-1](Images/driver-helper-1.PNG)
+![driver-helper-1](Images/DriverHelper.png)
 
 ## Features
 
